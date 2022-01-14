@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKaHAVI6xMs0BgPXdBj2WjpsSiA/im5qNqbiEHISxH+iKmbEcuPQOYdUfO5FXRQdQWSEuYjB9+llGXa1Y41dxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcc\\source\\repos\\DijkatraClass\\Dijkstra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lcc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

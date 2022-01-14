@@ -1,0 +1,13 @@
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.csprojAssemblyReference.cache
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.Form1.resources
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.Properties.Resources.resources
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.csproj.GenerateResource.cache
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.csproj.CoreCompileInputs.cache
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\bin\Debug\DijkstraForRoutePlanning.exe.config
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\bin\Debug\DijkstraForRoutePlanning.exe
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\bin\Debug\DijkstraForRoutePlanning.pdb
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.csproj.CopyComplete
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.exe
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\obj\Debug\DijkstraForRoutePlanning.pdb
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\bin\Debug\Dijkstra.dll
+C:\Users\lcc\source\repos\DijkstraForRoutePlanning\bin\Debug\Dijkstra.pdb

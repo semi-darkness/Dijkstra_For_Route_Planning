@@ -1,0 +1,9 @@
+C:\Users\lcc\source\repos\DijkatraClass\bin\Debug\netstandard2.0\Dijkatra.deps.json
+C:\Users\lcc\source\repos\DijkatraClass\bin\Debug\netstandard2.0\Dijkatra.dll
+C:\Users\lcc\source\repos\DijkatraClass\bin\Debug\netstandard2.0\Dijkatra.pdb
+C:\Users\lcc\source\repos\DijkatraClass\obj\Debug\netstandard2.0\Dijkatra.csprojAssemblyReference.cache
+C:\Users\lcc\source\repos\DijkatraClass\obj\Debug\netstandard2.0\Dijkatra.AssemblyInfoInputs.cache
+C:\Users\lcc\source\repos\DijkatraClass\obj\Debug\netstandard2.0\Dijkatra.AssemblyInfo.cs
+C:\Users\lcc\source\repos\DijkatraClass\obj\Debug\netstandard2.0\Dijkatra.csproj.CoreCompileInputs.cache
+C:\Users\lcc\source\repos\DijkatraClass\obj\Debug\netstandard2.0\Dijkatra.dll
+C:\Users\lcc\source\repos\DijkatraClass\obj\Debug\netstandard2.0\Dijkatra.pdb
